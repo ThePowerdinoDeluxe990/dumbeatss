@@ -33,7 +33,7 @@ button.boton{
 	width:140px;
 	background-position:center;
 	background-repeat:no-repeat;
-	background-size:50px,70px;
+	background-size:80px,80px;
 					
 }
 /*
@@ -81,6 +81,24 @@ button.boton:active{
 	background-image:url("images\\sounds\\cuerda.png");
 }
 #laser{
-	background-image:url("images\\sounds\\laser.png")
+	background-image:url("images\\sounds\\laser.png");
 }
 
+#coche{
+	background-image:url("images\\goofy\\coche.png");
+}
+#pato{
+	background-image:url("images\\goofy\\pato.png");
+}
+#oldspice{
+	background-image:url("images\\goofy\\oldspice.png");
+}
+#metal{
+	background-image:url("images\\goofy\\metal.png");
+}
+#oldcoche{
+	background-image:url("images\\goofy\\oldcoche.png");
+}
+#pedo{
+	background-image:url("images\\goofy\\pedo.png");
+}
