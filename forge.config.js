@@ -1,5 +1,5 @@
 module.exports = {
-  packagerConfig: {},
+  packagerConfig: {icon: 'C:\Users\USUARIO\Desktop\dumbeatss\testicondumb.ico'},
   rebuildConfig: {},
   makers: [
     {
