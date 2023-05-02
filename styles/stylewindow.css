@@ -1,0 +1,8 @@
+h3{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:chartreuse;
+}
+body{
+    background:linear-gradient(rgb(27, 14, 14),rgb(10, 1, 87));
+    background-attachment:fixed;
+}

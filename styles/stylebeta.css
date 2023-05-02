@@ -1,0 +1,86 @@
+@import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
+
+body{
+	background:linear-gradient(#381b19,#0f16a3);
+	background-attachment:fixed;
+	
+}
+#titulo{
+	
+	font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p{
+	color:white;
+	font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	background-color: rgba(255, 127, 80, 0.137);
+	width:70px;
+
+	
+}
+button{
+	 margin: 0;
+  position: relative;
+  
+}
+h3{
+	color:white;
+	padding:20px;
+}
+
+button.boton{
+	background-color: #8b1313;
+	height:100px;
+	width:140px;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:50px,70px;
+					
+}
+/*
+Muchas gracias bootstrap por existir
+*/
+section{
+	padding:20px;
+}
+button.boton:active{
+	background-color:orange;
+}
+#bateria{
+	background-image:url("images\\samples\\bateria.png");
+}
+#piano{
+	background-image:url("images\\samples\\piano.png");
+}
+#guitar{
+	background-image:url("images\\samples\\guitar.png");
+}
+#bajo{
+	background-image:url("images\\samples\\bajo.png");
+}
+#banjo{
+	background-image:url("images\\samples\\banjo.png");
+}
+#stopaudio{
+	background-image:url("images\\samples\\audioff.png");
+}
+
+#gota{
+	background-image:url("images\\sounds\\water.png");
+}
+#campana{
+	background-image:url("images\\sounds\\campana.png");
+}
+
+#tambor{
+	background-image:url("images\\sounds\\tambor.png");
+}
+#slap{
+	background-image:url("images\\sounds\\clap.png");
+}
+#cuerda{
+	background-image:url("images\\sounds\\cuerda.png");
+}
+#laser{
+	background-image:url("images\\sounds\\laser.png")
+}
+
